@@ -23,3 +23,5 @@ I will visit Massachusetts.
 
 I will visit Georgia.
 
+I will stay in Clemson.
+
