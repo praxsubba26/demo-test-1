@@ -14,3 +14,6 @@
 * 1 Truth or lie: I live in South Carolina
 * What do I think: Lie
 
+## My summer Plan
+
+I will visit Massachusetts.
