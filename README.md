@@ -3,25 +3,13 @@
 ### This is heading 3
 #### This is heading 4
 
-* My name is Prakrit Subba
-* PhD Student
-* I make really good chai.
+* My name is:
+* My Year/Major:
+* Fun Fact about myself:
 
 ## My Breakout room partner
-* Name: Elon Musk
-* Year: CEO
-* Fun Fact: I was born in South Africa
-* 1 Truth or lie: I live in South Carolina
-* What do I think: Lie
-
-
-Clemson is amazing!
-
-## My summer Plan
-
-I will visit Massachusetts.
-
-I will visit Georgia.
-
-I will stay in Clemson.
-
+* Name:
+* Year:
+* Fun Fact:
+* 1 Truth or lie:
+* What does the owner of this repository think:
