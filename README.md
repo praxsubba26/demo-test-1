@@ -8,8 +8,8 @@
 * Fun Fact about myself: I love hiking.
 
 ## My Breakout room partner
-* Name:
-* Year:
-* Fun Fact:
-* 1 Truth or lie:
+* Name:Prakrit Subba 
+* Year:Graduate Student
+* Fun Fact: I love chic-fil-a
+* 1 Truth or lie: I love Popeyes
 * What does the owner of this repository think:
