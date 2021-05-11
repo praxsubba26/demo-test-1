@@ -3,9 +3,9 @@
 ### Jordan Hall
 #### Wednesday, May 12
 
-* My name is:
-* My Year/Major:
-* Fun Fact about myself:
+* My name is: Nate Jacques
+* My Year/Major: Junior
+* Fun Fact about myself: I love hiking.
 
 ## My Breakout room partner
 * Name:
