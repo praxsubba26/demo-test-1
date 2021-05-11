@@ -1,7 +1,7 @@
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
+# Introduction to GitHub
+## George Lab
+### Jordan Hall
+#### Wednesday, May 12
 
 * My name is:
 * My Year/Major:
