@@ -8,6 +8,6 @@
 * I make really good chai.
 
 ## My Breakout room partner
-* Name:
-* Year: 
-* Fun Fact:
+* Name: Elon Musk
+* Year: CEO
+* Fun Fact: I was born in South Africa
