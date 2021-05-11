@@ -12,5 +12,12 @@
 * Year: CEO
 * Fun Fact: I was born in South Africa
 * 1 Truth or lie: I live in South Carolina
+* What do I think: Lie
+
 
 Clemson is amazing!
+
+## My summer Plan
+
+I will visit Massachusetts.
+
